@@ -43,7 +43,7 @@ Email: ajv120@njms.rutgers.edu
 ## OFFICE HOURS: 
 **Instructor:** Dr. Johnson will be available virtually by appointment only. Email or text him any time to set up a time to meet!
 
-**Teaching Assistant:** There is not TA for this course. However, Dr. VanValkenburg will be available for in-person help and support by appointment on a limited basis.  
+**Teaching Assistant:** There is no TA for this course. However, Dr. VanValkenburg will be available for in-person help and support by appointment on a limited basis.  
 
 ## GitHub REPOSITORY:
 The course GitHub repository is: https://github.com/wevanjohnson/2024_Spring_BDMA. This page will contain all information in this syllabus plus more. Homework assignments and other information pertinent to this course will be posted on this web site, which will be updated frequently, so you should visit it regularly.
